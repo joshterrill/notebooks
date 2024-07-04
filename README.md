@@ -1,2 +1,2 @@
-# machine-learning-experiments
-a place to put some machine learning experiments
+# notebooks
+a place to put some jupyter notebooks for random research I'm doing
